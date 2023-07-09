@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh Raj
 - 👀 I’m interested in Software/Web design
-- 🌱 I’m currently learning C,Java, JavaScript
+- 🌱 I’m currently learning C/C++, Java, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adarsh02raj2gmail.com
 
