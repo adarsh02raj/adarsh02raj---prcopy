@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software/Web design
 - 🌱 I’m currently learning C/C++, Java, C#, .NET, JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me adarsh02raj2gmail.com
+- 📫 How to reach me adarsh02raj@gmail.com
 
 <!---
 adarsh02raj/adarsh02raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
